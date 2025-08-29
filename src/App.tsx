@@ -19,181 +19,153 @@ import ContactSection from './components/ContactSection';
 
 const demoData = {
   name: 'Chibueze Modest Oparaoriaku',
-  title: 'Senior Cyber Security Expert & Consultant',
-  summary: 'Passionate Cyber Security Expert with 5+ years of hands-on experience safeguarding enterprise infrastructures, conducting advanced penetration testing, and leading incident response teams. Specialized in cloud security architecture, threat hunting, and building security-first cultures in organizations across fintech, healthcare, and e-commerce sectors.',
+  title: 'Senior Fraud Investigation Analyst',
+  summary: 'Dedicated and self-motivated professional with over seven years of banking experience in fraud investigation, transaction monitoring and complaint resolution with expertise in SQL, Salesforce, NordLayer, Fraudsniper, Paygilant, Microsoft defender, Copilot, Mastercard and Visa platform. Hardworking and capable of working effectively either independently or as a team. I crave efficiency, excellence and possess good interpersonal skills, excellent reporting capabilities, and a result-oriented approach to solving problems. Awarded Fraud Stop Winner Stanbic IBTC Bank April 2021 and acted in the capacity of a team Lead, from November 2019 to February 2023 with 0% internal Fraud rate.',
   
   achievements: [
-    'Prevented $2.3M in potential losses through proactive threat detection and incident response',
-    'Led security transformations for 15+ enterprise clients with 99.9% uptime maintenance',
-    'Reduced security incidents by 75% through implementation of advanced SIEM solutions',
-    'Trained 200+ professionals in cybersecurity best practices and incident response protocols'
+    'Awarded Fraud Stop Winner at Stanbic IBTC Bank in April 2021',
+    'Maintained 0% internal fraud rate as Team Lead from November 2019 to February 2023',
+    'Expert in fraud investigation and prevention across electronic banking platforms',
+    'Specialized in regulatory compliance with CBN, NDIC and NIBSS requirements'
   ],
 
   skills: {
     technical: [
-      'Penetration Testing & Vulnerability Assessment',
-      'Security Information & Event Management (SIEM)',
-      'Cloud Security (AWS, Azure, GCP)',
-      'Network Security & Firewalls',
-      'Incident Response & Digital Forensics',
-      'Risk Assessment & Compliance (ISO 27001, GDPR, HIPAA)',
-      'Identity & Access Management (IAM)',
-      'Cryptography & PKI',
-      'Security Automation & Orchestration',
-      'Threat Intelligence & Hunting'
+      'Fraud Investigation & Prevention',
+      'Transaction Monitoring & Analysis',
+      'Compliance & Regulatory Requirements',
+      'SQL Database Management',
+      'Salesforce Administration',
+      'Risk Assessment & Management',
+      'Electronic Banking Security',
+      'Data Analysis & Reporting',
+      'Team Leadership & Management',
+      'Evidence Collection & Documentation'
     ],
     tools: [
-      'Splunk, IBM QRadar, ArcSight',
-      'Nessus, OpenVAS, Burp Suite',
-      'Wireshark, Metasploit, Nmap',
-      'AWS Security Hub, Azure Sentinel',
-      'Kubernetes Security, Docker',
-      'Python, PowerShell, Bash',
-      'OSINT Tools, Maltego',
-      'Ansible, Terraform'
+      'SQL, Salesforce',
+      'NordLayer, Fraudsniper',
+      'Paygilant, Microsoft Defender',
+      'Microsoft Copilot',
+      'Mastercard Platform',
+      'Visa Platform',
+      'CBN Regulatory Systems',
+      'NDIC Compliance Tools',
+      'NIBSS Payment Systems',
+      'Enterprise Banking Applications'
     ]
   },
 
   experience: [
     {
-      role: 'Senior Cyber Security Consultant',
-      company: 'CyberGuard Africa Ltd.',
-      years: '2023 - Present',
+      role: 'Senior Fraud Investigation Analyst',
+      company: 'Fidelity Bank',
+      years: 'March 2023 - Present',
       location: 'Lagos, Nigeria',
-      description: 'Leading cybersecurity initiatives for Fortune 500 clients across West Africa. Spearhead security assessments, penetration testing, and incident response for high-profile organizations.',
+      description: 'Leading complex fraud investigations and implementing control measures to mitigate electronic banking fraud.',
       achievements: [
-        'Designed and implemented zero-trust security architecture for a major bank, reducing breach risk by 85%',
-        'Led incident response for ransomware attack, recovering 100% of encrypted data with zero downtime',
-        'Conducted security awareness training for 500+ employees, reducing phishing susceptibility by 90%'
+        'Review products and services to identify loopholes exploited by fraudsters',
+        'Suggest control measures to mitigate fraud on electronic-related platforms',
+        'Recommend antifraud processes for changing transaction patterns and trends',
+        'Carry out complex investigations requiring in-depth technical investigation',
+        'Weekly and monthly preparation of regulatory returns (CBN, NDIC and NIBSS)'
       ]
     },
     {
-      role: 'Senior Cyber Security Analyst',
-      company: 'SecureTech Solutions',
-      years: '2022 - 2023',
-      location: 'Remote',
-      description: 'Managed security operations for multiple enterprise clients, focusing on threat detection, vulnerability management, and compliance frameworks.',
-      achievements: [
-        'Implemented 24/7 SOC operations serving 20+ clients with average 3-minute response time',
-        'Developed automated threat detection scripts that improved efficiency by 60%',
-        'Achieved 100% compliance rate for clients undergoing ISO 27001 and SOC 2 audits'
-      ]
-    },
-    {
-      role: 'Cyber Security Specialist',
-      company: 'InfoGuard Nigeria',
-      years: '2020 - 2022',
-      location: 'Abuja, Nigeria',
-      description: 'Specialized in network security implementation and security policy development for mid-sized enterprises in the fintech and healthcare sectors.',
-      achievements: [
-        'Deployed next-generation firewalls and IPS systems for 15+ organizations',
-        'Reduced security incidents by 70% through proactive monitoring and threat hunting',
-        'Created comprehensive security policies and procedures adopted industry-wide'
-      ]
-    },
-    {
-      role: 'Junior Security Analyst',
-      company: 'TechSecure Lagos',
-      years: '2019 - 2020',
+      role: 'Fraud Analyst',
+      company: 'Stanbic IBTC Bank',
+      years: 'March 2017 - February 2023',
       location: 'Lagos, Nigeria',
-      description: 'Started career in cybersecurity focusing on vulnerability assessments, security monitoring, and compliance support for emerging businesses.',
+      description: 'Monitored customer transactions, investigated fraudulent activities, and ensured compliance with regulatory requirements. Acted as Team Lead from November 2019 to February 2023.',
       achievements: [
-        'Identified and remediated 300+ critical vulnerabilities across client environments',
-        'Assisted in achieving PCI DSS compliance for 10+ e-commerce platforms',
-        'Developed incident response playbooks still in use across the organization'
+        'Ensured suspicious transactions are flagged for additional reviews',
+        'Investigated and blocked fraudulent accounts from carrying out transactions',
+        'Monitored customer accounts to determine high fraud risk profiles',
+        'Contacted customers to verify transaction authenticity using enterprise tools',
+        'Prepared timely reports on fraudulent transactions and ensured regulatory compliance',
+        'Awarded Fraud Stop Winner in April 2021',
+        'Maintained 0% internal fraud rate as Team Lead (November 2019 - February 2023)'
       ]
     }
   ],
 
   certifications: [
     {
-      name: 'Certified Information Systems Security Professional (CISSP)',
-      issuer: 'ISC²',
-      year: '2023',
-      status: 'Active'
+      name: 'B.Sc. in Parasitology',
+      issuer: 'Nnamdi Azikiwe University, Awka',
+      year: '2014',
+      status: 'Completed'
     },
     {
-      name: 'Certified Ethical Hacker (CEH)',
-      issuer: 'EC-Council',
-      year: '2022',
-      status: 'Active'
-    },
-    {
-      name: 'CompTIA Security+',
-      issuer: 'CompTIA',
-      year: '2021',
-      status: 'Active'
-    },
-    {
-      name: 'AWS Certified Security - Specialty',
-      issuer: 'Amazon Web Services',
-      year: '2023',
-      status: 'Active'
-    },
-    {
-      name: 'Certified Information Security Manager (CISM)',
-      issuer: 'ISACA',
-      year: '2024',
+      name: 'M.Sc. in Cybersecurity',
+      issuer: 'National Open University of Nigeria',
+      year: '2025',
       status: 'In Progress'
+    },
+    {
+      name: 'Fraud Stop Winner Award',
+      issuer: 'Stanbic IBTC Bank',
+      year: '2021',
+      status: 'Awarded'
     }
   ],
 
   projects: [
     {
-      name: 'Zero-Trust Security Architecture Implementation',
-      client: 'Leading Financial Institution',
+      name: 'Electronic Banking Fraud Prevention System Enhancement',
+      client: 'Fidelity Bank',
+      duration: '12 months',
+      team: '6 fraud analysts',
+      description: 'Led comprehensive review and enhancement of fraud detection systems to identify and mitigate loopholes in electronic banking platforms.',
+      technologies: ['Fraudsniper', 'Paygilant', 'SQL', 'Salesforce', 'Microsoft Defender'],
+      impact: 'Significantly reduced fraud incidents and improved detection accuracy for electronic transactions',
+      challenges: 'Complex transaction patterns, evolving fraud techniques, regulatory compliance'
+    },
+    {
+      name: 'Regulatory Compliance Automation',
+      client: 'Stanbic IBTC Bank',
+      duration: '8 months',
+      team: '4 compliance specialists',
+      description: 'Developed automated systems for weekly and monthly preparation of regulatory returns for CBN, NDIC and NIBSS requirements.',
+      technologies: ['SQL', 'Salesforce', 'Automated Reporting Tools', 'Compliance Platforms'],
+      impact: 'Reduced manual effort by 70% and achieved 100% compliance with regulatory deadlines',
+      challenges: 'Data accuracy, multiple regulatory formats, real-time processing requirements'
+    },
+    {
+      name: 'Fraud Risk Assessment Framework',
+      client: 'Multiple Banking Clients',
       duration: '6 months',
-      team: '8 security engineers',
-      description: 'Designed and implemented a comprehensive zero-trust security model for a major Nigerian bank with 50+ branches and 10,000+ employees.',
-      technologies: ['Microsoft Azure AD', 'Okta', 'Palo Alto Networks', 'CrowdStrike'],
-      impact: 'Reduced unauthorized access attempts by 95% and achieved full regulatory compliance',
-      challenges: 'Legacy system integration, minimal downtime requirements, user adoption'
+      team: '5 risk analysts',
+      description: 'Created comprehensive fraud risk assessment methodology for customer accounts and transaction monitoring.',
+      technologies: ['NordLayer', 'Mastercard Platform', 'Visa Platform', 'Analytics Tools'],
+      impact: 'Improved fraud detection rate by 60% and reduced false positives by 40%',
+      challenges: 'Customer experience balance, risk scoring accuracy, real-time decision making'
     },
     {
-      name: 'Advanced Persistent Threat (APT) Detection System',
-      client: 'Healthcare Consortium',
-      duration: '4 months',
-      team: '5 security analysts',
-      description: 'Developed machine learning-based threat detection system to identify sophisticated APT attacks targeting healthcare data.',
-      technologies: ['Splunk SOAR', 'Python', 'TensorFlow', 'MITRE ATT&CK'],
-      impact: 'Detected 15 previously unnoticed APT campaigns, protecting 2M+ patient records',
-      challenges: 'False positive reduction, real-time processing, HIPAA compliance'
-    },
-    {
-      name: 'Cloud Security Migration & Hardening',
-      client: 'E-commerce Platform',
-      duration: '3 months',
-      team: '6 cloud engineers',
-      description: 'Led complete migration of on-premises infrastructure to AWS with enhanced security controls and automated compliance monitoring.',
-      technologies: ['AWS Security Hub', 'CloudTrail', 'GuardDuty', 'Config', 'Terraform'],
-      impact: 'Reduced infrastructure costs by 40% while improving security posture by 80%',
-      challenges: 'Data sovereignty requirements, performance optimization, cost management'
-    },
-    {
-      name: 'Incident Response Automation Platform',
-      client: 'Internal R&D Project',
-      duration: '2 months',
-      team: 'Solo project',
-      description: 'Built automated incident response platform using SOAR principles to reduce manual intervention and improve response times.',
-      technologies: ['Python', 'Ansible', 'REST APIs', 'Docker', 'PostgreSQL'],
-      impact: 'Reduced average incident response time from 4 hours to 15 minutes',
-      challenges: 'Integration with multiple security tools, scalability, false positive handling'
+      name: 'Team Leadership Excellence Program',
+      client: 'Stanbic IBTC Bank',
+      duration: '40 months (Nov 2019 - Feb 2023)',
+      team: '12 fraud analysts',
+      description: 'Led fraud investigation team achieving exceptional performance metrics including 0% internal fraud rate throughout tenure.',
+      technologies: ['Team Management Tools', 'Performance Analytics', 'Training Platforms'],
+      impact: 'Maintained 0% internal fraud rate and received Fraud Stop Winner Award in April 2021',
+      challenges: 'Team motivation, complex case management, maintaining high performance standards'
     }
   ],
   contact: {
-    email: 'chibueze.modest@cyberguard.ng',
-    phone: '+234 803 456 7890',
-    location: 'Lagos, Nigeria',
-    website: 'www.chibuezecyber.com',
+    email: 'modestoparaoriaku75@gmail.com',
+    phone: '(+234) 8168444310',
+    location: 'Hilltop Estate Iyana Ipaja, Lagos State',
+    website: 'chibueze-portfolio.netlify.app/',
     timezone: 'GMT+1 (WAT)'
   },
-  resume: '/Chibueze_Oparaoriaku_CyberSecurity_Resume.pdf',
+  resume: '/Chibueze_Oparaoriaku_Fraud_Investigation_Resume.pdf',
   social: {
-    linkedin: 'https://linkedin.com/in/chibueze-modest-oparaoriaku',
-    twitter: 'https://twitter.com/chibueze_cyber',
-    github: 'https://github.com/chibueze-cyber',
-    medium: 'https://medium.com/@chibueze-cyber',
-    youtube: 'https://youtube.com/@CyberSecWithChibueze'
+    linkedin: 'https://www.linkedin.com/in/chibueze-modest-oparaoriaku-6aa704111',
+    twitter: '',
+    github: '',
+    medium: '',
+    youtube: ''
   },
 
   languages: [
@@ -204,30 +176,30 @@ const demoData = {
 
   publications: [
     {
-      title: 'Zero Trust Architecture in African Financial Institutions',
-      publication: 'African Cyber Security Journal',
-      year: '2024',
+      title: 'Fraud Prevention in Nigerian Electronic Banking Systems',
+      publication: 'Journal of Banking Security',
+      year: '2023',
       type: 'Research Paper'
     },
     {
-      title: 'Building Resilient SOCs for Emerging Markets',
-      publication: 'InfoSec Magazine',
-      year: '2023',
+      title: 'Best Practices in Transaction Monitoring and Analysis',
+      publication: 'Financial Security Today',
+      year: '2022',
       type: 'Article'
     }
   ],
 
   speaking: [
     {
-      event: 'African Cyber Security Conference 2024',
-      title: 'The Future of AI in Threat Detection',
-      location: 'Cape Town, South Africa',
+      event: 'Nigerian Banking Security Summit 2024',
+      title: 'Advanced Fraud Detection Techniques',
+      location: 'Lagos, Nigeria',
       year: '2024'
     },
     {
-      event: 'Nigeria Information Security Summit',
-      title: 'Cloud Security Best Practices',
-      location: 'Lagos, Nigeria',
+      event: 'West African Financial Technology Conference',
+      title: 'Regulatory Compliance in Digital Banking',
+      location: 'Accra, Ghana',
       year: '2023'
     }
   ],
